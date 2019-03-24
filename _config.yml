@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 title: mpaw
 description: Work in progress...
-
 github:
   is_project_page: false
+is_project_page: false
